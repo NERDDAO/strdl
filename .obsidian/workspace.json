@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "751b62f1316000ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd424f40b9125adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ba2085343abd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22eea5758d1acfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/serverless.yml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a38520e8accb44e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/src/Utils/db.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a90fb53ff4713ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4e8a8665a2c859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2776890225c8c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22579dd9ff30a36c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68757420db3697cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e989417bdcb10d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f4cb0aebfe99c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cf110c81ea801b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/src/Utils/db.js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "566006c68f6d44d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/src/Utils/db.js.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "864fe999641b7128",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7db6333b4cbe52d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/src/Utils/db.js.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a38520e8accb44e7",
+  "lastOpenFiles": [
+    "backend/src/testData/proofData.js.md",
+    "backend/src/Utils/db.js.md",
+    "backend/src/Utils",
+    "backend/src/testData/block.json.md",
+    "backend/src/strudel.js.md",
+    "backend/src/testData",
+    "backend/src/strudelHandler.js.md",
+    "backend/src/blockchainNetworkIds.js.md",
+    "backend/src/strudelHandler.test.js.md",
+    "backend/package.json.md",
+    "backend/src",
+    "backend/serverless.yml.md",
+    "backend/README.md",
+    "README.md",
+    "backend",
+    "Untitled"
+  ]
+}
